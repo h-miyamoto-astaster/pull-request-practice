@@ -1,7 +1,6 @@
-.DS_Store
+DS_Store
 Thumbs.db
-test.txt
-Takahashi.txt
-bluetortoise.txt
-.txt
-*.sw?
+node_modules*~.
+*.tmp
+*.log
+*.bak
